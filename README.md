@@ -20,19 +20,19 @@
 
 <br>
 
-<img src="docs/screenshot.png" alt="QRoute-Q Emergency Routing Dashboard" width="100%">
+<img src="docs/screenshot.png" alt="Miannal-Q Emergency Routing Dashboard" width="100%">
 
 </div>
 
 ---
 
-## 🌌 About QRoute-Q
+## 🌌 About Miannal-Q
 
-**QRoute-Q** explores the intersection of **Quantum Computing, Combinatorial Optimization, and Emergency Healthcare**.
+**Miannal-Q** explores the intersection of **Quantum Computing, Combinatorial Optimization, and Emergency Healthcare**.
 
 It introduces a hybrid quantum-classical approach to multi-stop ambulance routing, using the **Quantum Approximate Optimization Algorithm (QAOA)** to optimize patient visitation sequences while accounting for injury severity and traffic conditions.
 
-By formulating the routing problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** problem and translating it into an Ising Hamiltonian, QRoute-Q explores how quantum optimization can help prioritize critical patients while balancing overall route efficiency.
+By formulating the routing problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** problem and translating it into an Ising Hamiltonian, Miannal-Q explores how quantum optimization can help prioritize critical patients while balancing overall route efficiency.
 
 ### ✨ Core Technologies
 
