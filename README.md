@@ -15,7 +15,7 @@
 
 [![Achievement](https://img.shields.io/badge/🏆_2nd_Place-Qiskit_Fall_Fest_2026_|_QuantumX_Hackathon-gold?style=for-the-badge)](#)
 
-**🥈 2nd Place — National-Level QuantumX Hackathon**  
+
 *Qiskit Fall Fest 2026 · QuantumX*
 
 <br>
