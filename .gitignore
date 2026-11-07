@@ -1,0 +1,11 @@
+qiskit-env/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+.pytest_cache/
+
+# Android app build output (served locally for phone install)
+web/*.apk
+.vercel
+.env*
