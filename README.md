@@ -80,7 +80,7 @@ flowchart LR
   E --> F[OUTPUT<br/>route on map, arrival time per patient,<br/>vs brute force and greedy,<br/>QAOA quality metrics]
 ```
 
-## 3. Quantum component (mandatory)
+## 3. Quantum component 
 
 **Where quantum is used:** in one place, choosing the **visiting order**. The QAOA circuit's output *is*
 the route. Remove it and Minnal-Q has no answer, so it is not a decorative circuit.
