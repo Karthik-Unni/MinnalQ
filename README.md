@@ -1,15 +1,52 @@
-# ⚡ Minnal-Q (മിന്നൽ)
-### Lightning-fast quantum routing for life-critical emergencies
+ <div align="center">
 
-| | |
-|---|---|
-| **Team name** | Minnal-Q |
-| **Project** | Minnal-Q: Severity- and Traffic-Aware Multi-Stop Ambulance Routing with QAOA |
-| **Challenge** | Challenge 1: Emergency Vehicle Routing (Quantum Optimization · Smart Mobility) |
-| **Members (roles)** | Rahul M J · _add other team members here_ |
-| **Event** | QFF26 Kochi Hack · TinkerSpace Kochi · 1 November 2026 |
+# ⚡ QRoute-Q
+### **Quantum-Powered Emergency Ambulance Routing**
 
-*Minnal* is Malayalam for lightning. **Q** stands for the quantum (QAOA) engine.
+**A Hybrid Quantum-Classical Optimization Framework for Intelligent Emergency Response**
+
+[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://www.ibm.com/quantum/qiskit)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![QAOA](https://img.shields.io/badge/Quantum-QAOA-6A5ACD?style=for-the-badge)](https://qiskit-community.github.io/qiskit-optimization/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+<br>
+
+[![Achievement](https://img.shields.io/badge/🏆_2nd_Place-Qiskit_Fall_Fest_2026_|_QuantumX_Hackathon-gold?style=for-the-badge)](#)
+
+**🥈 2nd Place — National-Level QuantumX Hackathon**  
+*Qiskit Fall Fest 2026 · QuantumX*
+
+<br>
+
+<img src="docs/screenshot.png" alt="QRoute-Q Emergency Routing Dashboard" width="100%">
+
+</div>
+
+---
+
+## 🌌 About QRoute-Q
+
+**QRoute-Q** explores the intersection of **Quantum Computing, Combinatorial Optimization, and Emergency Healthcare**.
+
+It introduces a hybrid quantum-classical approach to multi-stop ambulance routing, using the **Quantum Approximate Optimization Algorithm (QAOA)** to optimize patient visitation sequences while accounting for injury severity and traffic conditions.
+
+By formulating the routing problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** problem and translating it into an Ising Hamiltonian, QRoute-Q explores how quantum optimization can help prioritize critical patients while balancing overall route efficiency.
+
+### ✨ Core Technologies
+
+- **Quantum Optimization:** QAOA, QUBO, Ising Hamiltonian
+- **Quantum Framework:** Qiskit, Qiskit Aer
+- **Backend:** Python, FastAPI
+- **Frontend:** HTML, CSS, JavaScript, Leaflet
+- **Mapping:** OpenStreetMap
+
+<br>
+
+*Reimagining emergency response through the power of quantum computing.*
+
+
 
 ![Minnal-Q web app](docs/screenshot.png)
 
