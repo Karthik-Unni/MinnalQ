@@ -1,6 +1,6 @@
  <div align="center">
 
-# ⚡ QRoute-Q
+# ⚡ Minnal-Q
 ### **Quantum-Powered Emergency Ambulance Routing**
 
 **A Hybrid Quantum-Classical Optimization Framework for Intelligent Emergency Response**
