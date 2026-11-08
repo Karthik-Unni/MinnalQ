@@ -164,7 +164,7 @@ probability on valid, low-cost routes, and more so at p = 2.
 
 ## 6. Demo web app
 
-A single-page web app served by FastAPI (no Streamlit):
+A single-page web app served by FastAPI :
 
 - **Interactive Kochi map** (Leaflet + OpenStreetMap): patients as severity-coloured pins. Click any junction to add a patient.
 - **Three routes drawn on real roads:** Minnal-Q (quantum), nearest-first (today) and fastest (ignores severity).
