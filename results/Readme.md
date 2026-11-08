@@ -1,1 +1,1 @@
-All the tests and the obtained results were properly taken . There might be issues with the hardware constraints we had.So performance may vary accordingly
+All the tests and the obtained results were properly taken . There might be issues with the hardware constraints we had.So performance may vary accordingly.Quantum advantage. At 3–4 patients brute force is instant, and with 6 valid routes, 4,096 samples will almost surely contain the optimum. The meaningful quantum metrics are P(optimal) and valid-sample rate vs random
